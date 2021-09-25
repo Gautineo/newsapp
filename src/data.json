@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "0", "name": "CNN" },
+      "author": "Aya Elamroussi, CNN",
+      "title": "'We will not boost our way out of this pandemic,' CDC director says as 70 million Americans remain unvaccinated - CNN",
+      "description": "Three-quarters of eligible Americans have received at least one dose of a Covid-19 vaccine and some are now able to receive an additional booster shot. But the virus still poses a great threat to more than 70 million people who remain unvaccinated.",
+      "url": "https://www.cnn.com/2021/09/25/health/us-coronavirus-saturday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210925001919-restricted-pfizer-covid-19-vaccine-california-09-16-2021-super-tease.jpg",
+      "publishedAt": "2021-09-25T06:43:00Z",
+      "content": "(CNN)Three-quarters of eligible Americans have received at least one dose of a Covid-19 vaccine and some are now able to receive an additional booster shot. But the virus still poses a great threat t… [+5686 chars]"
+    },
+    {
+      "source": { "id": "1", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Actor Michael K Williams died of accidental drug overdose, coroner confirms - BBC News",
+      "description": "The actor died after overdosing on a combination of fentanyl, p-fluorofentanyl, heroin and cocaine.",
+      "url": "https://www.bbc.com/news/world-us-canada-58684726",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1304/production/_120686840_michaelkwilliams.jpg",
+      "publishedAt": "2021-09-25T05:00:21Z",
+      "content": "image source, Getty Images\r\nimage captionMichael K. Williams died of an accidental drug overdose, authorities have said\r\nUS actor Michael K Williams died after overdosing on a combination of heroin, … [+1843 chars]"
+    },
+    {
+      "source": { "id": "2", "name": "New York Post" },
+      "author": "Samuel Chamberlain",
+      "title": "FBI probes reported assault of female service member by Afghan refugees - New York Post ",
+      "description": "The FBI confirmed Friday that it is investigating a report that a female service member was assaulted by a group of male Afghan refugees who are being housed at Fort Bliss.",
+      "url": "https://nypost.com/2021/09/25/fbi-investigates-female-service-member-assaulted-by-afghan-refugees-at-fort-bliss/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/afghan-refugees-assault-soldier-index.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-09-25T04:18:00Z",
+      "content": "The FBI confirmed Friday that it is investigating a report that a female service member was assaulted by a group of male Afghan refugees who are being housed at Fort Bliss.\r\nIn a statement to Fox New… [+2955 chars]"
+    },
+    {
+      "source": { "id": "3", "name": "KRCRTV.COM" },
+      "author": "Adam Robinson",
+      "title": "Vegetation fire on Sacramento River Trail on Friday deemed intentional, says RFD - KRCRTV.COM",
+      "description": "A vegetation fire at the west end of the Sacramento River Trail on Friday has been deemed intentional, according to Redding Fire investigators. Now, officials are asking for further information regarding whoever is responsible for the fire. At 5:06 p. m. , on…",
+      "url": "https://krcrtv.com/news/local/vegetation-fire-on-sacramento-river-trail-on-friday-deemed-intentional",
+      "urlToImage": "https://static-20.sinclairstoryline.com/resources/media/6557b4e5-b7e8-4538-b891-0d2fe90fe7ee-large16x9_ChristieRobinsonDirectUploader25thSep202101_36UTC.jpg?1632542468425",
+      "publishedAt": "2021-09-25T04:03:29Z",
+      "content": null
+    },
+    {
+      "source": { "id": "4", "name": "Variety" },
+      "author": "Elizabeth Wagmeister",
+      "title": "Britney Spears Was Under Surveillance With Phone Bugged by Conservators, According to Documentary - Variety",
+      "description": "When “Framing Britney Spears” was released earlier this year, the pop star’s world was much different. Before the New York Times-produced documentary launched on FX and Hulu this past February, Britney Spears had not yet testified publicly in court. Her fathe…",
+      "url": "https://variety.com/2021/music/news/controlling-britney-spears-documentary-conservatorship-surveillance-phone-monitored-1235074025/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2021/02/Framing-Britney-Spears3.jpg?w=1000",
+      "publishedAt": "2021-09-25T03:45:00Z",
+      "content": "When “Framing Britney Spears” was released earlier this year, the pop star’s world was much different.\r\nBefore the New York Times-produced documentary launched on FX and Hulu this past February, Brit… [+14581 chars]"
+    },
+    {
+      "source": { "id": "5", "name": "Alabama's News Leader" },
+      "author": "TIM DAHLBERG, AP Sports Writer",
+      "title": "Tiger Woods' text helps inspire US team in Ryder Cup - KOMO News",
+      "description": "SHEBOYGAN, Wis. (AP) &mdash; Tiger Woods isn&rsquo;t at Whistling Straits, but several U. S. players say he helped inspire them to a big lead in the first day of the Ryder Cup. Woods sent a group text through captain Steve Stricker to American players, saying…",
+      "url": "https://abc3340.com/news/nation-world/tiger-woods-text-helps-inspire-us-team-in-ryder-cup",
+      "urlToImage": "https://static-36.sinclairstoryline.com/resources/media/6dddf08b-87e1-4da7-9ebd-eedc7a57a68a-large16x9_AP21267797676707.jpg?1632537531753",
+      "publishedAt": "2021-09-25T02:51:47Z",
+      "content": null
+    }
+  ]
+}
